@@ -1,1 +1,1 @@
-Güncel!
+Güncel değil!
